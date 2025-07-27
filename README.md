@@ -34,7 +34,7 @@ This project analyzes biological age in comparison to chronological age using ma
 
 ## 📊 Power BI Dashboard Insights
 
-![Dashboard Preview](https://github.com/aryanv1999/BiologicalAge-vs-RealAge-Prediction-Dashboard/main/Dashboard.png)
+![Dashboard Preview]([https://github.com/aryanv1999/BiologicalAge-vs-RealAge-Prediction-Dashboard/main/Dashboard.png](https://github.com/aryanV1999/BiologicalAge-vs-RealAge-Prediction-Dashboard/blob/main/Dashboard.png))
 
 - Total Participants: **19K**
 - Avg Chronological Age: **49.49**
