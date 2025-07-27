@@ -72,5 +72,4 @@ This project analyzes biological age in comparison to chronological age using ma
 
 ---
 
-## 📎 Folder Structure
 
