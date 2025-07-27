@@ -34,7 +34,7 @@ This project analyzes biological age in comparison to chronological age using ma
 
 ## 📊 Power BI Dashboard Insights
 
-![Dashboard Preview]([https://github.com/aryanv1999/BiologicalAge-vs-RealAge-Prediction-Dashboard/main/Dashboard.png](https://github.com/aryanV1999/BiologicalAge-vs-RealAge-Prediction-Dashboard/blob/main/Dashboard.png))
+![Dashboard Preview](https://github.com/aryanV1999/BiologicalAge-vs-RealAge-Prediction-Dashboard/blob/main/Dashboard.png)
 
 - Total Participants: **19K**
 - Avg Chronological Age: **49.49**
@@ -52,7 +52,7 @@ This project analyzes biological age in comparison to chronological age using ma
 ## 🚀 How to Run
 
 1. Open the Colab notebook:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/your-username/your-repo/blob/main/path/to/notebook.ipynb](https://colab.research.google.com/drive/1dg-SusBMRGRZfvmlnS6sI-IHvzhAm057?usp=sharing))
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dg-SusBMRGRZfvmlnS6sI-IHvzhAm057?usp=sharing)
 
 2. Upload the dataset: `cleaned_kdm_bioage_NHANES32.csv`
 
